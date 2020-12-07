@@ -1,0 +1,16 @@
+.idea/
+*.iml
+out/
+gen/
+idea-gitignore.jar
+resources/templates.list
+resources/gitignore/*
+build/
+build.properties
+
+### Gradle template
+gradlew
+gradlew.bat
+.gradle
+gradle
+build
